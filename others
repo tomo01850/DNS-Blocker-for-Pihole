@@ -3,6 +3,7 @@
 
 #Instagram
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt-fallback.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph-fallback.instagram.com
