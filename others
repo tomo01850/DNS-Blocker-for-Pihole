@@ -12,6 +12,8 @@
 0.0.0.0 i.instagram.com
 0.0.0.0 i-fallback.instagram.com
 0.0.0.0 lookaside.facebook.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent-fallback.cdninstagram.com
 0.0.0.0 scontent-itm1-1.cdninstagram.com
 0.0.0.0 test-gateway.instagram.com
 0.0.0.0 zm-gateway.facebook.com
