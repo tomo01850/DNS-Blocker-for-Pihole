@@ -1,3 +1,4 @@
+0.0.0.0 abs.twimg.com
 0.0.0.0 api.x.com
 0.0.0.0 pbs.twimg.com
 0.0.0.0 video.twimg.com
