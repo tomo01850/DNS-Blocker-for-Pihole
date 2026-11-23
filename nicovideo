@@ -1,10 +1,13 @@
 0.0.0.0 api.nicoad.nicovideo.jp
+0.0.0.0 api.oshirasebox.nicovideo.jp
 0.0.0.0 api.profile.nicovideo.jp
 0.0.0.0 api-purchase-premium.nicovideo.jp
+0.0.0.0 api.push.nicovideo.jp
 0.0.0.0 audition.nicovideo.jp
 0.0.0.0 eapi.beta.hiroba.nicovideo.jp
 0.0.0.0 log.recommend.nicovideo.jp
 0.0.0.0 mjk.nicovideo.jp
 0.0.0.0 nvapi.nicovideo.jp
+0.0.0.0 nvl.video.nicovideo.jp
 0.0.0.0 public.nvcomment.nicovideo.jp
-0.0.0.0 log.recommend.nicovideo.jp
+0.0.0.0 wktk.nicovideo.jp
