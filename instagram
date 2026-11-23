@@ -1,0 +1,16 @@
+#Instagram
+0.0.0.0 connect.facebook.net
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt-fallback.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph-fallback.instagram.com
+0.0.0.0 instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent-fallback.cdninstagram.com
+0.0.0.0 scontent-itm1-1.cdninstagram.com
+0.0.0.0 test-gateway.instagram.com
+0.0.0.0 zm-gateway.facebook.com
