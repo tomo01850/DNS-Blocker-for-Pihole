@@ -2,6 +2,7 @@
 0.0.0.0 akizukidenshi.com
 
 #Instagram
+0.0.0.0 connect.facebook.net
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-mqtt-fallback.facebook.com
 0.0.0.0 graph.instagram.com
