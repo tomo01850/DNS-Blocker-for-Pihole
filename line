@@ -6,6 +6,7 @@
 0.0.0.0 jp.naver.line.android
 0.0.0.0 legy-backup.line-apps.com
 0.0.0.0 legy-jp.line-apps.com
+0.0.0.0 legy-backup.line-apps.com
 0.0.0.0 linegame-obs.line-scdn.net
 0.0.0.0 line-home.flvcdn.net
 0.0.0.0 obs.line-scdn.net
@@ -16,6 +17,7 @@
 0.0.0.0	vos.line-scdn.net
 0.0.0.0	wc.line-scdn.net
 0.0.0.0 wcc-image.line-scdn.net
+0.0.0.0 yuki-cdn.line-apps.com
 #0.0.0.0 app-measurement.com
 #0.0.0.0 da.flvcdn.net
 #0.0.0.0 dm.slim01.jp
