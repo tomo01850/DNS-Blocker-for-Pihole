@@ -2,7 +2,10 @@
 0.0.0.0 akizukidenshi.com
 
 #Instagram
+0.0.0.0 graph.instagram.com
 0.0.0.0 instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 test-gateway.instagram.com
 
 #warthunder
 0.0.0.0 gaijin.net
