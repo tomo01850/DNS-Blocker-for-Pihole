@@ -1,10 +1,7 @@
 #Instagram
 #I recommend you to use DNS-Blocker-for-Pihole/facebook at the same time.
-0.0.0.0 connect.facebook.net
-0.0.0.0 edge-mqtt.facebook.com
-0.0.0.0 edge-mqtt-fallback.facebook.com
-0.0.0.0 graph.instagram.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
 0.0.0.0 graph-fallback.instagram.com
 0.0.0.0 instagram.com
 0.0.0.0 instagram.fhnd3-1.fna.fbcdn.net
