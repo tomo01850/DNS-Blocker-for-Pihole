@@ -1,6 +1,10 @@
 0.0.0.0 abs.twimg.com
 0.0.0.0 api.x.com
+0.0.0.0 grok.com
 0.0.0.0 pbs.twimg.com
+0.0.0.0 probe.twitter.com
+0.0.0.0 t.co
+0.0.0.0 ton.twimg.com
 0.0.0.0 video.twimg.com
 0.0.0.0 www.x.com
 0.0.0.0 x.com
