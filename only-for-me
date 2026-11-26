@@ -1,0 +1,93 @@
+#specialized for me
+#abema
+0.0.0.0 abema.tv
+0.0.0.0 www.abema.com
+
+#akizukidenshi
+0.0.0.0 akizukidenshi.com
+
+#discord
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 discord.com
+0.0.0.0 gateway.discord.gg
+0.0.0.0 images-ext-1.discordapp.net
+0.0.0.0 latency.discord.media
+
+#facebook
+0.0.0.0 connect.facebook.net
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt-fallback.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 zm-gateway.facebook.com
+0.0.0.0 z-m-gateway.facebook.com
+
+#Instagram
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph-fallback.instagram.com
+0.0.0.0 instagram.com
+0.0.0.0 instagram.fhnd3-1.fna.fbcdn.net
+0.0.0.0 instagram.fhnd3-2.fna.fbcdn.net
+0.0.0.0 i.instagram.com
+0.0.0.0 i-fallback.instagram.com
+
+#nicovideo
+0.0.0.0 api.nicoad.nicovideo.jp
+0.0.0.0 api.oshirasebox.nicovideo.jp
+0.0.0.0 api.profile.nicovideo.jp
+0.0.0.0 api-purchase-premium.nicovideo.jp
+0.0.0.0 api.push.nicovideo.jp
+0.0.0.0 audition.nicovideo.jp
+0.0.0.0 eapi.beta.hiroba.nicovideo.jp
+0.0.0.0 log.recommend.nicovideo.jp
+0.0.0.0 mjk.nicovideo.jp
+0.0.0.0 nvapi.nicovideo.jp
+0.0.0.0 nvl.video.nicovideo.jp
+0.0.0.0 public.nvcomment.nicovideo.jp
+0.0.0.0 wktk.nicovideo.jp
+
+#warthunder
+0.0.0.0 gaijin.net
+0.0.0.0 login.gaijin.net
+0.0.0.0 warthunder.com
+0.0.0.0 xboxlive.com
+0.0.0.0 xboxservices.com
+
+#WoT HEAT
+0.0.0.0 www.wargaming.net
+0.0.0.0 wargaming.net
+
+#x
+0.0.0.0 abs.twimg.com
+0.0.0.0 api.x.com
+0.0.0.0 grok.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 probe.twitter.com
+0.0.0.0 t.co
+0.0.0.0 ton.twimg.com
+#0.0.0.0 video.twimg.com
+0.0.0.0 www.x.com
+0.0.0.0 x.com
+
+#youtube
+0.0.0.0 ggpht.com
+0.0.0.0 googlevideo.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 m.youtube.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 rr1---sn-ogueln6y.googlevideo.com
+0.0.0.0 rr2---sn-ajogu5-5v.googlevideo.com
+0.0.0.0 rr2---sn-ajoguc-52.googlevideo.com
+0.0.0.0 rr2---sn-ogul7nel.googlevideo.com
+0.0.0.0 rr2---sn-oguesndr.googlevideo.com
+0.0.0.0 rr5---sn-ajoguc-ch.googlevideo.com
+0.0.0.0 rr5---sn-oguesndr.googlevideo.com
+0.0.0.0 s.youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 ytimg.com
+0.0.0.0 yt3.ggpht.com
