@@ -5,6 +5,13 @@
 #akizukidenshi
 0.0.0.0 akizukidenshi.com
 
+#discord
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 discord.com
+0.0.0.0 gateway.discord.gg
+0.0.0.0 images-ext-1.discordapp.net
+0.0.0.0 latency.discord.media
+
 #facebook
 0.0.0.0 connect.facebook.net
 0.0.0.0 edge-mqtt.facebook.com
