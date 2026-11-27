@@ -1,5 +1,6 @@
 #specialized for me
 #this may not be suitable for you
+
 #abema
 0.0.0.0 abema.tv
 0.0.0.0 www.abema.com
@@ -63,7 +64,7 @@
 #0.0.0.0 abs.twimg.com
 #0.0.0.0 api.x.com
 #0.0.0.0 grok.com
-#0.0.0.0 pbs.twimg.com
+0.0.0.0 pbs.twimg.com
 #0.0.0.0 probe.twitter.com
 #0.0.0.0 t.co
 #0.0.0.0 ton.twimg.com
