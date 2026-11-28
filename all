@@ -8,6 +8,7 @@
 0.0.0.0 gateway.discord.gg
 0.0.0.0 images-ext-1.discordapp.net
 0.0.0.0 latency.discord.media
+0.0.0.0 media.discordapp.net
 
 #facebook
 0.0.0.0 connect.facebook.net
